@@ -9,3 +9,6 @@ The lecture notes are in the form of Jupyter notebooks and are making use of [le
 - lecture III: lens modelling [![lecture III notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sibirrer/strong_lensing_lectures/blob/main/Lectures/einstein_ring_III.ipynb)
 
 If you have feedback, please let me know!
+
+
+There are also an additional set of educational notebooks available in the [Examples folder](https://github.com/sibirrer/strong_lensing_lectures/tree/main/Examples).
