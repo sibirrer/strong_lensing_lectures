@@ -20,6 +20,7 @@ Lecture notes:
 
 - [Essentials of Strong Gravitational Lensing, Saha et al. 2024](https://ui.adsabs.harvard.edu/abs/2024SSRv..220...12S/abstract)
 - [Lecture notes by M. Meneghetti](https://www.ita.uni-heidelberg.de/~jmerten/misc/meneghetti_lensing.pdf)
+- [TOPICAL REVIEW Gravitational lensing, by M. Batelmann](https://ui.adsabs.harvard.edu/abs/2010CQGra..27w3001B/abstract)
 - [Bartelmann & Schneider 2001; Weak gravitational lensing](https://ui.adsabs.harvard.edu/abs/2001PhR...340..291B/abstract)
 - [Slides by S. Suyu for the XXIV Canary Islands Winter School of Astrophysics 2012](http://research.iac.es/winterschool/2012/media/Suyu_L2.pdf)
 - [wikipedia: gravitational lensing formalism](https://en.wikipedia.org/wiki/Gravitational_lensing_formalism)
